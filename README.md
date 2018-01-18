@@ -1,4 +1,4 @@
-:: Estudos da Maratona de BOTs
+# Estudos da Maratona de BOTs
 
 Repositório de estudo do curso de capacitação para desenvolvimento de Bots, utilizando APIs e outros serviços de Inteligência Artificial, feito pela comunidade em parceria com a Microsoft. 
 
