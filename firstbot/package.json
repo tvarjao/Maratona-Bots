@@ -1,0 +1,15 @@
+{
+  "name": "firstbot",
+  "version": "1.0.0",
+  "description": "My First Bot - MaratonaBots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Varjão",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "restify": "^6.3.4"
+  }
+}
